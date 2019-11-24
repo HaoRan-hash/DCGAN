@@ -4,7 +4,7 @@
 每一个py文件中都有详细的注释说明。
 
 # 资源获取 :eyes:
-鲜花的图集我已经上传在仓库中，在flowers文件夹里面。  
+鲜花的图集我已经上传在我的百度网盘上，下载地址：  
 celeba人脸图集是由香港中文大学开源的，官网地址：[http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  
 动漫头像图集是网友开源在百度网盘上的，下载地址：[https://pan.baidu.com/share/init?surl=eSifHcA](https://pan.baidu.com/share/init?surl=eSifHcA)，提取码：g5qa  
 
