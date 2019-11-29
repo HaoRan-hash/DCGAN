@@ -60,7 +60,7 @@ def generator_model():
     model.add(tf.keras.layers.Dense(256 * 8 * 8, input_shape=(100, )))
     model.add(tf.keras.layers.BatchNormalization(epsilon=1e-5, momentum=0.9))
     model.add(tf.keras.layers.Activation("relu"))
-    model.add(tf.keras.layers.Reshape((8, 8, 256)))  # 6 x 6 像素
+    model.add(tf.keras.layers.Reshape((8, 8, 256)))  # 8 x 8 像素
 
     model.add(tf.keras.layers.Conv2DTranspose(
         128,
