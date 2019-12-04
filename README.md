@@ -1,7 +1,10 @@
 # 项目简介 :clipboard:
-该项目是利用DCGAN生成你想要的图片，我使用了3个图集进行训练，分别是鲜花、celeba人脸、动漫头像。  
+该项目是利用DCGAN生成你想要的图片，我使用了3个图集进行训练，分别是鲜花、celeba人脸、动漫头像。 
+
 项目一共有三个py文件，功能如下：network.py是实现DCGAN的神经网络结构，train.py是训练过程，generate.py是利用训练好的模型参数生成图片。  
 每一个py文件中都有详细的注释说明。
+
+整个项目过程中大概进行了100多次调参优化，我个人感觉最终的效果还不错，如果大佬们有更好的优化方案欢迎Pull requests或者在Issues里面讨论。
 
 # 资源获取 :eyes:
 鲜花的图集我已经上传在我的百度网盘上，下载地址：[https://pan.baidu.com/s/1uvU61kB-xPowufwVU8Vzqg](https://pan.baidu.com/s/1uvU61kB-xPowufwVU8Vzqg)，提取码：een8  
