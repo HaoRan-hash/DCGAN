@@ -2,7 +2,7 @@ import tensorflow as tf
 
 
 # 超参数
-EPOCHS = 200
+EPOCHS = 500
 BATCH_SIZE = 128
 LEARNING_RATE = 0.0002
 BETA_1 = 0.5
