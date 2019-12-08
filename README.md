@@ -7,7 +7,7 @@
 整个项目过程中大概进行了100多次调参优化，我个人感觉最终的效果还不错，如果大佬们有更好的优化方案欢迎Pull requests或者在Issues里面讨论。
 
 # 资源获取 :eyes:
-鲜花的图集我已经上传在我的百度网盘上，下载地址：[https://pan.baidu.com/s/1uvU61kB-xPowufwVU8Vzqg](https://pan.baidu.com/s/1uvU61kB-xPowufwVU8Vzqg)，提取码：een8  
+鲜花图集我已经上传在我的百度网盘上，下载地址：[https://pan.baidu.com/s/1uvU61kB-xPowufwVU8Vzqg](https://pan.baidu.com/s/1uvU61kB-xPowufwVU8Vzqg)，提取码：een8  
 
 celeba人脸图集是由香港中文大学开源的，可以在官网进行下载，官网地址：[http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  
 
@@ -22,7 +22,7 @@ celeba人脸图集是由香港中文大学开源的，可以在官网进行下�
 celeba人脸图集训练500轮的结果如下：
 ![](./images/celeba-500.PNG)
 
-动漫头像训练500轮的结果如下：
+动漫头像图集训练500轮的结果如下：
 ![](./images/cartoon-500.PNG)
 
 # 补充说明 :key:
