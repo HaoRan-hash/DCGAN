@@ -1,7 +1,7 @@
 import tensorflow as tf
 
 
-# 超参数
+# 超参数（包括训练的轮数，学习率等，可以根据需要进行更改）
 EPOCHS = 500
 BATCH_SIZE = 128
 LEARNING_RATE = 0.0002
