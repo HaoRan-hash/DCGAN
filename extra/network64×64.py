@@ -52,7 +52,6 @@ def discriminator_model():
 
 
 # 定义生成器模型
-# 从随机数来生成图片
 def generator_model():
     model = tf.keras.models.Sequential()
 
