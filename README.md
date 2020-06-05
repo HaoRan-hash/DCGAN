@@ -16,7 +16,7 @@ celeba人脸图集是由香港中文大学开源的，可以在官网进行下�
 
 使用的服务器资源获取地址：[https://www.yousanai.cn/home](https://www.yousanai.cn/home)
 
-我训练好的一些模型参数文件，上传到了百度网盘。(因为文件比较大，国内用户直接在Github上clone会比较慢，所以我放到了网盘上)  
+我训练好的一些模型参数文件，上传到了百度网盘。(因为文件比较大，国内用户直接在Github上下载会比较慢，所以我放到了网盘上)  
 [https://pan.baidu.com/s/13J34FhWa_9BQMhK2SxfXmw](https://pan.baidu.com/s/13J34FhWa_9BQMhK2SxfXmw)，提取码：fdai  
 因为我跑了几十次(调参做实验)，不可能每个模型参数文件都保存下来，所以网盘只放了几个，建议还是用我提供的代码自己训练。
 
