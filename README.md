@@ -45,7 +45,7 @@ celeba人脸图集训练500轮的结果如下：
 如果想要较好的生成效果，原始图集质量需要比较好(做过深度学习的应该都懂。。。)。  
 
 # 学习建议
-我建议大家阅读DCGAN原文的同时，可以在youtube上观看台湾大学李宏毅教授的GAN讲解，配合学习效率更高。
+我建议大家阅读DCGAN原文的同时，可以在youtube上观看台湾大学李宏毅教授的GAN讲解，配合学习效率更高。  
 一些GAN的训练优化技巧可以参考[https://github.com/soumith/ganhacks](https://github.com/soumith/ganhacks)  
 推荐一个GAN的知乎专栏[https://zhuanlan.zhihu.com/c_155535936](https://zhuanlan.zhihu.com/c_155535936)
 
