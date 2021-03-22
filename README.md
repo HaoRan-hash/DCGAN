@@ -48,6 +48,3 @@ celeba人脸图集训练500轮的生成结果如下：
 我建议大家阅读DCGAN原文的同时，可以在youtube上观看台湾大学李宏毅教授的GAN讲解，配合学习效率更高。  
 一些GAN的训练优化技巧可以参考[https://github.com/soumith/ganhacks](https://github.com/soumith/ganhacks)  
 推荐一个GAN的知乎专栏[https://zhuanlan.zhihu.com/c_155535936](https://zhuanlan.zhihu.com/c_155535936)
-
-# 之后计划
-立一个flag：2020暑假更新WGAN-GP
