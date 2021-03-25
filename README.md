@@ -14,7 +14,7 @@ celeba人脸图集是由香港中文大学开源的，可以在官网进行下�
 
 动漫头像图集也已经上传在我的百度网盘上，下载地址：[https://pan.baidu.com/s/1FoWdyGqYZI80YMmu8SHGMA](https://pan.baidu.com/s/1FoWdyGqYZI80YMmu8SHGMA)，提取码：yi17  
 
-使用的服务器资源获取地址：[https://www.yousanai.cn/home](https://www.yousanai.cn/home)
+使用的服务器资源获取地址：[https://www.deepbrainchain.org/ailanding.html](https://www.deepbrainchain.org/ailanding.html)
 
 我训练好的一些模型参数文件，上传到了百度网盘。(因为文件比较大，国内用户直接在Github上下载会比较慢，所以我放到了网盘上)  
 [https://pan.baidu.com/s/13J34FhWa_9BQMhK2SxfXmw](https://pan.baidu.com/s/13J34FhWa_9BQMhK2SxfXmw)，提取码：fdai  
