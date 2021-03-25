@@ -12,7 +12,7 @@
 
 celeba人脸图集是由香港中文大学开源的，可以在官网进行下载，官网地址：[http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html](http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html)  
 
-动漫头像图集是网友开源在百度网盘上的，下载地址：[https://pan.baidu.com/share/init?surl=eSifHcA](https://pan.baidu.com/share/init?surl=eSifHcA)，提取码：g5qa  
+动漫头像图集也已经上传在我的百度网盘上，下载地址：[https://pan.baidu.com/s/1FoWdyGqYZI80YMmu8SHGMA](https://pan.baidu.com/s/1FoWdyGqYZI80YMmu8SHGMA)，提取码：yi17  
 
 使用的服务器资源获取地址：[https://www.yousanai.cn/home](https://www.yousanai.cn/home)
 
@@ -36,7 +36,7 @@ celeba人脸图集训练500轮的生成结果如下：
 ![](./images/cartoon-500.PNG)
 
 # 补充说明   
-鲜花图集大概是3000张，图片尺寸是64×64；动漫头像图集大概是5万张，图片尺寸是96×96。  
+鲜花图集大概是3000张，图片尺寸是64×64；动漫头像图集大概是7万张，图片尺寸是96×96。  
 
 对于celeba人脸图集这里单独说一下，官方给了20万张，但是如果全部拿来使用会导致训练时间过长，所以这里只用了3万张。同时，原尺寸为178×218，这不利于构造神经网络模型，我将它处理为了128×160的尺寸，既保证模型构造起来容易，又保证图片比例不失调。  
 
